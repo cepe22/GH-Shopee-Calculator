@@ -97,8 +97,8 @@ Harga Jual: ${new Intl.NumberFormat('id-ID').format(result.sellingPrice)}
               <Calculator size={20} />
             </div>
             <div>
-              <h1 className="font-bold text-gray-900 leading-tight">ShopeeCalc</h1>
-              <p className="text-xs text-gray-500">Safe Profit Calculator</p>
+              <h1 className="font-bold text-gray-900 leading-tight">Growth Hive Shopee Calculator</h1>
+              <p className="text-xs text-gray-500">Safe Profit Analysis</p>
             </div>
           </div>
           <button 
